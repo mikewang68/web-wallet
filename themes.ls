@@ -1,9 +1,9 @@
 module.exports =
-    velas:
+    sino:
         clip: "polygon(0 calc(100% - 1rem),0 0,calc(100% - 1rem) 0,100% 1rem,100% 100%,1rem 100%)"
         border-btn: "0"
         background: \#0b0c27
-        bgspare: \#9093E3
+        bgspare: \#30AAAA
         menu: \#0037c1
         background-image: "none"
         primary-button-filter: "grayscale(0%) brightness(10%) sepia(20%) hue-rotate(0deg)"
