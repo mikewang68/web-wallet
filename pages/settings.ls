@@ -525,7 +525,7 @@ manage-account = (store, web3t)->
             .pug.title(style=color)
                 .pug.logo
                     img.pug(src="#{style.branding.logo}" style=logo-style)
-                span.pug Velas Wallet
+                span.pug Sino Wallet
                 span.pug.bold.low #{store.version}
             .pug.description.pb-0(style=color)
                 span.pug #{lang.about-wallet}.

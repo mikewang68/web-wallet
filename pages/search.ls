@@ -212,7 +212,7 @@ dapps = (store, web3t)->
     .pug.panel-content
         .pug.platform(style=resource on-click=goto-staking)
             img.pug.title-icons-small(src="#{icons.staking}")
-            .pug.title Velas Staking 1.0
+            .pug.title Sino Staking 1.0
             .pug.subtitle Previous version of staking for experienced users
         .pug.platform(style=resource on-click=goto-wallets)
             img.pug.title-icons-small(src="#{icons.wallet}")
