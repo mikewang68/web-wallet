@@ -221,7 +221,7 @@ dapps = (store, web3t)->
         .pug.platform(style=resource on-click=goto-util)
             img.pug.title-icons(src="#{icons.convert}")
             .pug.title Legacy address conversion
-            .pug.subtitle Convert VLX Legacy address format to EVM format
+            .pug.subtitle Convert SOR Legacy address format to EVM format
 search = ({ store, web3t })->
     lang = get-lang store
     { go-back } = history-funcs store, web3t
