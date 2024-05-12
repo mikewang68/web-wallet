@@ -132,7 +132,7 @@ Tested with `node --version` v11.10.1
 
 ### 3.5 Supported Coins
 
-* VLX
+* SOR
 * BTC (+ All OMNI)
 * LTC
 * DASH
