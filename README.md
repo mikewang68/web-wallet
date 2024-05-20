@@ -64,6 +64,9 @@ npm version 9.6.3
 
 ![image](pages/image7.png)
 
+![image](pages/image15.png)
+
+![image](pages/image16.png)
 ### 2.2 SINO钱包网络页面
 
    创建好账号并登陆后，显示不同的钱包网络，如Sino Network、Bitcoin Network和Ethereum Network。其中主要为Sino Network,Sino Network分为Sino Native（Sino本地网络），Sino EVM和Sino Legacy。
@@ -80,15 +83,30 @@ npm version 9.6.3
 
 ![image](pages/image8.png)
 
-### 2.3 SINO钱包质押页面
+### 2.3 SINO Native的发送与接收
+
+   将网络Network切换到Sino Native后，选择一个账户作为发送方，一个账户作为接收方。打开接收方的账户选择接收并复制账户的地址，然后回到发送方的账户选择发送，输入接收方的账户的地址，选择发送的金额并确认交易，等待交易成功。
+   
+![image](pages/image22.png)
+
+![image](pages/image17.png)
+
+![image](pages/image18.png)
+
+![image](pages/image19.png)
+
+![image](pages/image20.png)
+
+![image](pages/image21.png)
+### 2.4 SINO钱包质押页面
 
 ![image](pages/image9.png)
 
-### 2.4 SINO钱包DApps页面
+### 2.5 SINO钱包DApps页面
 
 ![image](pages/image10.png)
 
-### 2.5 SINO钱包设置页面
+### 2.6 SINO钱包设置页面
 
 ![image](pages/image11.png)
 
